@@ -1,0 +1,37 @@
+#main {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: lightgray;
+  border-radius: 5px;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+#img-div {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+#image {
+  display: block;
+  max-width: 90%;
+  margin: auto;
+}
+
+#tribute-info {
+  max-width: 500px;
+  margin: auto;
+  text-align: left;
+}
+#tribute-info li {
+  margin-bottom: 5px;
+}
+
+#phrase-about {
+  font-style: italic;
+}
+
+#ending {
+  font-weight: bold;
+  margin-top: 50px;
+}
